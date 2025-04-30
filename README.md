@@ -1,1 +1,1 @@
-# Ca-kowanie-numeryczne-VBA
+# Całkowanie-numeryczne-VBA
